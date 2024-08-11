@@ -1,0 +1,4 @@
+com\example\webservice\PersonRepository.class
+com\example\webservice\WebServiceApplication.class
+com\example\webservice\PersonController.class
+com\example\webservice\Person.class

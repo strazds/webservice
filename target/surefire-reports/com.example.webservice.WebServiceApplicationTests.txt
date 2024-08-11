@@ -1,7 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.example.webservice.WebServiceApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.763 s <<< FAILURE! - in com.example.webservice.WebServiceApplicationTests
-com.example.webservice.WebServiceApplicationTests  Time elapsed: 0.747 s  <<< ERROR!
-java.lang.IllegalStateException: Found multiple @SpringBootConfiguration annotated classes [Generic bean: class [com.example.webservice.DemoApplication]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [c:\as\Java\webservice\target\classes\com\example\webservice\DemoApplication.class], Generic bean: class [com.example.webservice.WebServiceApplication]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [c:\as\Java\webservice\target\classes\com\example\webservice\WebServiceApplication.class]]
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.467 s - in com.example.webservice.WebServiceApplicationTests
